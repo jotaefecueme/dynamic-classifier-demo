@@ -3,3 +3,4 @@ langchain
 gspread
 oauth2client
 python-dotenv
+pydantic
